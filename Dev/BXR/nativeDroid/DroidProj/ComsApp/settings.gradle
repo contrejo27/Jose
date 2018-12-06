@@ -1,0 +1,1 @@
+include ':app', ':nYPAppAndKioskProject-debug', ':HelloWorld-debug', 'app-release', ':app-release', ':appLib'
